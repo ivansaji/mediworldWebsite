@@ -588,3 +588,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-size: 5em;
 }
 }
+
+.thumb_icon{
+	width: 40%;
+	height: 40%;
+}
